@@ -10,3 +10,5 @@ Script for converting String to python like statement : [make_z3.py](https://git
 
 
 Full z3 script : [new_z3.py](https://github.com/d4rkvaibhav/EvlzCTF_2020/blob/main/new_z3.py)
+
+Full writeup  : [here](https://medium.com/@d4rkvaibhav/evlzctf-2020-6ffd672acd3)
