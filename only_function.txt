@@ -1,0 +1,1078 @@
+
+//----- (0000000000001193) ----------------------------------------------------
+__int64 __fastcall sub_1193(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 29) + *(_BYTE *)(a1 + 12) * *(_BYTE *)(a1 + 1) + *(_BYTE *)(a1 + 9));
+  if ( (_DWORD)result != 12125 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000011F2) ----------------------------------------------------
+__int64 __fastcall sub_11F2(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 12) + *(_BYTE *)(a1 + 12) * *(_BYTE *)(a1 + 8) - *(_BYTE *)(a1 + 4));
+  if ( (_DWORD)result != 9775 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001253) ----------------------------------------------------
+__int64 __fastcall sub_1253(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 26) + *(_BYTE *)(a1 + 1) - *(_BYTE *)(a1 + 21) + *(_BYTE *)(a1 + 11));
+  if ( (_DWORD)result != 159 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000012B1) ----------------------------------------------------
+__int64 __fastcall sub_12B1(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 8) + *(_BYTE *)a1 * *(_BYTE *)(a1 + 8) * *(_BYTE *)(a1 + 14));
+  if ( (_DWORD)result != 480150 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000130D) ----------------------------------------------------
+__int64 __fastcall sub_130D(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 21) - *(_BYTE *)(a1 + 4) + *(_BYTE *)(a1 + 22) * *(_BYTE *)(a1 + 21));
+  if ( (_DWORD)result != 5545 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000136E) ----------------------------------------------------
+__int64 __fastcall sub_136E(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 13) + *(_BYTE *)(a1 + 10) + *(_BYTE *)(a1 + 14) + *(_BYTE *)(a1 + 1));
+  if ( (_DWORD)result != 311 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000013CC) ----------------------------------------------------
+__int64 __fastcall sub_13CC(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 8) - *(_BYTE *)(a1 + 17) - *(_BYTE *)(a1 + 1) + *(_BYTE *)(a1 + 30));
+  if ( (_DWORD)result != -9 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000142A) ----------------------------------------------------
+__int64 __fastcall sub_142A(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 26) - *(_BYTE *)(a1 + 21) - *(_BYTE *)(a1 + 26) * *(_BYTE *)(a1 + 13));
+  if ( (_DWORD)result != -4903 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000148D) ----------------------------------------------------
+__int64 __fastcall sub_148D(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 13) - *(_BYTE *)(a1 + 18) - *(_BYTE *)(a1 + 26) + *(_BYTE *)(a1 + 29));
+  if ( (_DWORD)result != 91 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000014EB) ----------------------------------------------------
+__int64 __fastcall sub_14EB(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 12) + *(_BYTE *)(a1 + 15) * *(_BYTE *)(a1 + 4) + *(_BYTE *)(a1 + 17));
+  if ( (_DWORD)result != 14473 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000154B) ----------------------------------------------------
+__int64 __fastcall sub_154B(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 27) + *(_BYTE *)(a1 + 9) - *(_BYTE *)(a1 + 4) + *(_BYTE *)(a1 + 12));
+  if ( (_DWORD)result != 201 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000015A9) ----------------------------------------------------
+__int64 __fastcall sub_15A9(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 6) * *(_BYTE *)(a1 + 8) - *(_BYTE *)(a1 + 8) + *(_BYTE *)(a1 + 3));
+  if ( (_DWORD)result != 4681 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000160A) ----------------------------------------------------
+__int64 __fastcall sub_160A(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 20) - *(_BYTE *)(a1 + 31) - *(_BYTE *)(a1 + 8) - *(_BYTE *)(a1 + 31));
+  if ( (_DWORD)result != -206 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000166C) ----------------------------------------------------
+__int64 __fastcall sub_166C(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 17) * *(_BYTE *)(a1 + 8) * *(_BYTE *)(a1 + 15) - *(_BYTE *)(a1 + 31));
+  if ( (_DWORD)result != 1170106 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000016CC) ----------------------------------------------------
+__int64 __fastcall sub_16CC(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 20) - *(_BYTE *)(a1 + 29) + *(_BYTE *)(a1 + 4) - *(_BYTE *)(a1 + 3));
+  if ( (_DWORD)result != -3 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000172D) ----------------------------------------------------
+__int64 __fastcall sub_172D(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 11) + *(_BYTE *)(a1 + 29) * *(_BYTE *)(a1 + 13) + *(_BYTE *)(a1 + 1));
+  if ( (_DWORD)result != 9622 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000178C) ----------------------------------------------------
+__int64 __fastcall sub_178C(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 12) - *(_BYTE *)(a1 + 23) + *(_BYTE *)(a1 + 18) - *(_BYTE *)(a1 + 4));
+  if ( (_DWORD)result != -67 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000017ED) ----------------------------------------------------
+__int64 __fastcall sub_17ED(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 2) - *(_BYTE *)(a1 + 4) - *(_BYTE *)(a1 + 5) + *(_BYTE *)(a1 + 30));
+  if ( (_DWORD)result != -9 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000184B) ----------------------------------------------------
+__int64 __fastcall sub_184B(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 5) + *(_BYTE *)(a1 + 20) * *(_BYTE *)(a1 + 20) + *(_BYTE *)(a1 + 24));
+  if ( (_DWORD)result != 9188 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000018AB) ----------------------------------------------------
+__int64 __fastcall sub_18AB(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 7) + *(_BYTE *)(a1 + 11) + *(_BYTE *)(a1 + 2) + *(_BYTE *)(a1 + 29));
+  if ( (_DWORD)result != 401 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001909) ----------------------------------------------------
+__int64 __fastcall sub_1909(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 9) - *(_BYTE *)(a1 + 13) - *(_BYTE *)(a1 + 29) - *(_BYTE *)(a1 + 1));
+  if ( (_DWORD)result != -204 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000196B) ----------------------------------------------------
+__int64 __fastcall sub_196B(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 6) - *(_BYTE *)(a1 + 23) + *(_BYTE *)a1 - *(_BYTE *)(a1 + 23));
+  if ( (_DWORD)result != -45 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000019C8) ----------------------------------------------------
+__int64 __fastcall sub_19C8(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 5) + *(_BYTE *)(a1 + 1) - *(_BYTE *)(a1 + 4) - *(_BYTE *)(a1 + 6));
+  if ( (_DWORD)result != 57 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001A26) ----------------------------------------------------
+__int64 __fastcall sub_1A26(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 31) * *(_BYTE *)(a1 + 23) + *(_BYTE *)(a1 + 29) * *(_BYTE *)(a1 + 3));
+  if ( (_DWORD)result != 21972 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001A88) ----------------------------------------------------
+__int64 __fastcall sub_1A88(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 22) + *(_BYTE *)(a1 + 25) + *(_BYTE *)(a1 + 16) + *(_BYTE *)(a1 + 31));
+  if ( (_DWORD)result != 356 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001AE6) ----------------------------------------------------
+__int64 __fastcall sub_1AE6(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 4) + *(_BYTE *)(a1 + 29) - *(_BYTE *)(a1 + 31) - *(_BYTE *)(a1 + 29));
+  if ( (_DWORD)result != 21 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001B44) ----------------------------------------------------
+__int64 __fastcall sub_1B44(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 23) + *(_BYTE *)(a1 + 11) * *(_BYTE *)(a1 + 24) + *(_BYTE *)(a1 + 22));
+  if ( (_DWORD)result != 5395 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001BA4) ----------------------------------------------------
+__int64 __fastcall sub_1BA4(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 30) * *(_BYTE *)(a1 + 2) - *(_BYTE *)(a1 + 14) - *(_BYTE *)(a1 + 15));
+  if ( (_DWORD)result != 12363 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001C07) ----------------------------------------------------
+__int64 __fastcall sub_1C07(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 13) - *(_BYTE *)(a1 + 17) - *(_BYTE *)(a1 + 20) - *(_BYTE *)(a1 + 14));
+  if ( (_DWORD)result != -153 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001C69) ----------------------------------------------------
+__int64 __fastcall sub_1C69(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 28) + *(_BYTE *)(a1 + 24) + *(_BYTE *)(a1 + 16) - *(_BYTE *)(a1 + 29));
+  if ( (_DWORD)result != 174 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001CC9) ----------------------------------------------------
+__int64 __fastcall sub_1CC9(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 7) + *(_BYTE *)(a1 + 8));
+  if ( (_DWORD)result != 192 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001D07) ----------------------------------------------------
+__int64 __fastcall sub_1D07(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 16) * *(_BYTE *)(a1 + 1));
+  if ( (_DWORD)result != 11210 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001D46) ----------------------------------------------------
+__int64 __fastcall sub_1D46(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 12) + *(_BYTE *)(a1 + 5) - *(_BYTE *)(a1 + 28) - *(_BYTE *)(a1 + 12));
+  if ( (_DWORD)result != -15 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001DA4) ----------------------------------------------------
+__int64 __fastcall sub_1DA4(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 16) + *(_BYTE *)(a1 + 29) + *(_BYTE *)(a1 + 2) * *(_BYTE *)(a1 + 22));
+  if ( (_DWORD)result != 5702 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001E04) ----------------------------------------------------
+__int64 __fastcall sub_1E04(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 30) - *(_BYTE *)(a1 + 12) + *(_BYTE *)(a1 + 29) + *(_BYTE *)(a1 + 26));
+  if ( (_DWORD)result != 165 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001E65) ----------------------------------------------------
+__int64 __fastcall sub_1E65(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 26) - *(_BYTE *)(a1 + 27) - *(_BYTE *)(a1 + 19) * *(_BYTE *)(a1 + 13));
+  if ( (_DWORD)result != -10989 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001EC8) ----------------------------------------------------
+__int64 __fastcall sub_1EC8(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 11) + *(_BYTE *)(a1 + 20) - *(_BYTE *)(a1 + 25) + *(_BYTE *)(a1 + 23));
+  if ( (_DWORD)result != 183 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001F26) ----------------------------------------------------
+__int64 __fastcall sub_1F26(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 11) + *(_BYTE *)(a1 + 22) - *(_BYTE *)(a1 + 23) - *(_BYTE *)(a1 + 25));
+  if ( (_DWORD)result != -55 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001F84) ----------------------------------------------------
+__int64 __fastcall sub_1F84(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 17) - *(_BYTE *)(a1 + 15) - *(_BYTE *)(a1 + 22) + *(_BYTE *)(a1 + 8));
+  if ( (_DWORD)result != 34 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000001FE2) ----------------------------------------------------
+__int64 __fastcall sub_1FE2(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 11) - *(_BYTE *)(a1 + 10) * *(_BYTE *)(a1 + 14) * *(_BYTE *)(a1 + 4));
+  if ( (_DWORD)result != -295224 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002042) ----------------------------------------------------
+__int64 __fastcall sub_2042(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)a1 + *(_BYTE *)(a1 + 3));
+  if ( (_DWORD)result != 223 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000207C) ----------------------------------------------------
+__int64 __fastcall sub_207C(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 17) - *(_BYTE *)(a1 + 22) - *(_BYTE *)(a1 + 26) + *(_BYTE *)(a1 + 30));
+  if ( (_DWORD)result != 118 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000020DA) ----------------------------------------------------
+__int64 __fastcall sub_20DA(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 9) - *(_BYTE *)a1 - *(_BYTE *)(a1 + 24) + *(_BYTE *)(a1 + 21));
+  if ( (_DWORD)result != 63 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002132) ----------------------------------------------------
+__int64 __fastcall sub_2132(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 28) + *(_BYTE *)(a1 + 2) * *(_BYTE *)(a1 + 22) + *(_BYTE *)(a1 + 11));
+  if ( (_DWORD)result != 5732 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002191) ----------------------------------------------------
+__int64 __fastcall sub_2191(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 22) - *(_BYTE *)(a1 + 13) - *(_BYTE *)(a1 + 12) + *(_BYTE *)(a1 + 1));
+  if ( (_DWORD)result != -27 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000021EF) ----------------------------------------------------
+__int64 __fastcall sub_21EF(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 18) + *(_BYTE *)(a1 + 30) - *(_BYTE *)a1 + *(_BYTE *)(a1 + 20));
+  if ( (_DWORD)result != 162 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002249) ----------------------------------------------------
+__int64 __fastcall sub_2249(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 12) + *(_BYTE *)(a1 + 31) + *(_BYTE *)(a1 + 20) + *(_BYTE *)(a1 + 18));
+  if ( (_DWORD)result != 350 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000022A7) ----------------------------------------------------
+__int64 __fastcall sub_22A7(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 27) - *(_BYTE *)(a1 + 23) - *(_BYTE *)a1 - *(_BYTE *)(a1 + 4));
+  if ( (_DWORD)result != -206 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002305) ----------------------------------------------------
+__int64 __fastcall sub_2305(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 15) - *(_BYTE *)(a1 + 16) - *(_BYTE *)(a1 + 18) - *(_BYTE *)(a1 + 10));
+  if ( (_DWORD)result != -80 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002365) ----------------------------------------------------
+__int64 __fastcall sub_2365(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 29) - *(_BYTE *)(a1 + 22) - *(_BYTE *)(a1 + 1) * *(_BYTE *)(a1 + 12));
+  if ( (_DWORD)result != -11870 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000023C8) ----------------------------------------------------
+__int64 __fastcall sub_23C8(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 16) * *(_BYTE *)(a1 + 25) - *(_BYTE *)(a1 + 21) + *(_BYTE *)(a1 + 24));
+  if ( (_DWORD)result != 10204 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002429) ----------------------------------------------------
+__int64 __fastcall sub_2429(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 17) + *(_BYTE *)(a1 + 3) + *(_BYTE *)(a1 + 14) - *(_BYTE *)(a1 + 14));
+  if ( (_DWORD)result != 226 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002489) ----------------------------------------------------
+__int64 __fastcall sub_2489(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 4) + *(_BYTE *)(a1 + 17) - *(_BYTE *)(a1 + 7) + *(_BYTE *)(a1 + 15));
+  if ( (_DWORD)result != 248 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000024E7) ----------------------------------------------------
+__int64 __fastcall sub_24E7(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 12) * *(_BYTE *)(a1 + 13));
+  if ( (_DWORD)result != 9595 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002526) ----------------------------------------------------
+__int64 __fastcall sub_2526(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 29) - *(_BYTE *)(a1 + 14) - *(_BYTE *)(a1 + 6) - *(_BYTE *)(a1 + 8));
+  if ( (_DWORD)result != -95 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002586) ----------------------------------------------------
+__int64 __fastcall sub_2586(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 1) + *(_BYTE *)a1 * *(_BYTE *)(a1 + 29) + *(_BYTE *)(a1 + 23));
+  if ( (_DWORD)result != 10214 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000025E2) ----------------------------------------------------
+__int64 __fastcall sub_25E2(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 26) - *(_BYTE *)(a1 + 12) + *(_BYTE *)(a1 + 6) * *(_BYTE *)(a1 + 31));
+  if ( (_DWORD)result != 4846 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002643) ----------------------------------------------------
+__int64 __fastcall sub_2643(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 31) - *(_BYTE *)(a1 + 24) + *(_BYTE *)(a1 + 27) - *(_BYTE *)(a1 + 25));
+  if ( (_DWORD)result != 56 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000026A4) ----------------------------------------------------
+__int64 __fastcall sub_26A4(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 30) - *(_BYTE *)(a1 + 31) - *(_BYTE *)(a1 + 25) - *(_BYTE *)(a1 + 11));
+  if ( (_DWORD)result != -193 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002706) ----------------------------------------------------
+__int64 __fastcall sub_2706(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 4) * *(_BYTE *)(a1 + 24) - *(_BYTE *)(a1 + 27) - *(_BYTE *)(a1 + 12));
+  if ( (_DWORD)result != 6303 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002769) ----------------------------------------------------
+__int64 __fastcall sub_2769(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 27) - *(_BYTE *)(a1 + 28) - *(_BYTE *)(a1 + 10) + *(_BYTE *)(a1 + 16));
+  if ( (_DWORD)result != 36 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000027C7) ----------------------------------------------------
+__int64 __fastcall sub_27C7(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 21) - *(_BYTE *)(a1 + 28) - *(_BYTE *)(a1 + 19) - *(_BYTE *)(a1 + 13));
+  if ( (_DWORD)result != -226 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002829) ----------------------------------------------------
+__int64 __fastcall sub_2829(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 21) + *(_BYTE *)(a1 + 4) - *(_BYTE *)(a1 + 6) + *(_BYTE *)(a1 + 21));
+  if ( (_DWORD)result != 293 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002887) ----------------------------------------------------
+__int64 __fastcall sub_2887(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 3) * *(_BYTE *)(a1 + 29) - *(_BYTE *)(a1 + 11) + *(_BYTE *)(a1 + 25));
+  if ( (_DWORD)result != 12087 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000028E8) ----------------------------------------------------
+__int64 __fastcall sub_28E8(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 14) + *(_BYTE *)(a1 + 1) - *(_BYTE *)(a1 + 24) + *(_BYTE *)(a1 + 5));
+  if ( (_DWORD)result != 224 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002946) ----------------------------------------------------
+__int64 __fastcall sub_2946(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 18) - *(_BYTE *)(a1 + 29) - *(_BYTE *)(a1 + 7) - *(_BYTE *)(a1 + 23));
+  if ( (_DWORD)result != -239 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000029A8) ----------------------------------------------------
+__int64 __fastcall sub_29A8(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 7) - *(_BYTE *)(a1 + 2) + *(_BYTE *)(a1 + 10) - *(_BYTE *)(a1 + 4));
+  if ( (_DWORD)result != -87 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002A09) ----------------------------------------------------
+__int64 __fastcall sub_2A09(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 3) - *(_BYTE *)(a1 + 5) * *(_BYTE *)(a1 + 8) - *(_BYTE *)(a1 + 14));
+  if ( (_DWORD)result != -10597 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002A6C) ----------------------------------------------------
+__int64 __fastcall sub_2A6C(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 26) - *(_BYTE *)(a1 + 8) + *(_BYTE *)(a1 + 30) - *(_BYTE *)(a1 + 11));
+  if ( (_DWORD)result != -29 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002ACD) ----------------------------------------------------
+__int64 __fastcall sub_2ACD(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 30) - *(_BYTE *)(a1 + 28) + *(_BYTE *)(a1 + 15) * *(_BYTE *)(a1 + 6));
+  if ( (_DWORD)result != 5559 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002B2E) ----------------------------------------------------
+__int64 __fastcall sub_2B2E(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 17) + *(_BYTE *)(a1 + 29) - *(_BYTE *)(a1 + 9) + *(_BYTE *)(a1 + 28));
+  if ( (_DWORD)result != 220 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002B8C) ----------------------------------------------------
+__int64 __fastcall sub_2B8C(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 15) + *(_BYTE *)(a1 + 2) + *(_BYTE *)(a1 + 5) - *(_BYTE *)(a1 + 16));
+  if ( (_DWORD)result != 239 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002BEC) ----------------------------------------------------
+__int64 __fastcall sub_2BEC(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 15) + *(_BYTE *)(a1 + 30) - *(_BYTE *)(a1 + 10) - *(_BYTE *)(a1 + 3));
+  if ( (_DWORD)result != 61 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002C4A) ----------------------------------------------------
+__int64 __fastcall sub_2C4A(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 27) + *(_BYTE *)(a1 + 20) - *(_BYTE *)(a1 + 30) + *(_BYTE *)(a1 + 2));
+  if ( (_DWORD)result != 202 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002CA8) ----------------------------------------------------
+__int64 __fastcall sub_2CA8(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 8) + *(_BYTE *)(a1 + 19) * *(_BYTE *)(a1 + 3) - *(_BYTE *)(a1 + 27));
+  if ( (_DWORD)result != 14012 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002D09) ----------------------------------------------------
+__int64 __fastcall sub_2D09(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 12) + *(_BYTE *)(a1 + 22) * *(_BYTE *)(a1 + 30) + *(_BYTE *)(a1 + 30));
+  if ( (_DWORD)result != 6133 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002D69) ----------------------------------------------------
+__int64 __fastcall sub_2D69(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 24) + *(_BYTE *)(a1 + 27) + *(_BYTE *)(a1 + 31) * *(_BYTE *)(a1 + 6));
+  if ( (_DWORD)result != 5064 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002DC9) ----------------------------------------------------
+__int64 __fastcall sub_2DC9(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 16) - *(_BYTE *)(a1 + 20) + *(_BYTE *)(a1 + 22) + *(_BYTE *)(a1 + 16));
+  if ( (_DWORD)result != 146 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002E2A) ----------------------------------------------------
+__int64 __fastcall sub_2E2A(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 16) - *(_BYTE *)(a1 + 26) + *(_BYTE *)a1 + *(_BYTE *)(a1 + 30));
+  if ( (_DWORD)result != 261 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002E87) ----------------------------------------------------
+__int64 __fastcall sub_2E87(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 23) * *(_BYTE *)(a1 + 16) - *(_BYTE *)(a1 + 22) + *(_BYTE *)(a1 + 24));
+  if ( (_DWORD)result != 9217 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002EE8) ----------------------------------------------------
+__int64 __fastcall sub_2EE8(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 6) - *(_BYTE *)(a1 + 1) - *(_BYTE *)a1 - *(_BYTE *)(a1 + 7));
+  if ( (_DWORD)result != -266 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002F46) ----------------------------------------------------
+__int64 __fastcall sub_2F46(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 15) + *(_BYTE *)(a1 + 19) - *(_BYTE *)(a1 + 5) * *(_BYTE *)(a1 + 19));
+  if ( (_DWORD)result != -12419 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000002FA8) ----------------------------------------------------
+__int64 __fastcall sub_2FA8(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)a1 + *(_BYTE *)(a1 + 13) * *(_BYTE *)(a1 + 14) + *(_BYTE *)(a1 + 6));
+  if ( (_DWORD)result != 4804 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000003003) ----------------------------------------------------
+__int64 __fastcall sub_3003(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 25) + *(_BYTE *)(a1 + 15) + *(_BYTE *)(a1 + 2) + *(_BYTE *)(a1 + 31));
+  if ( (_DWORD)result != 434 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000306C) ----------------------------------------------------
+__int64 __fastcall sub_306C(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 31) - *(_BYTE *)(a1 + 4) + *(_BYTE *)(a1 + 13) - *(_BYTE *)(a1 + 31));
+  if ( (_DWORD)result != -28 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000030CD) ----------------------------------------------------
+__int64 __fastcall sub_30CD(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 14) + *(_BYTE *)(a1 + 10) * *(_BYTE *)a1 + *(_BYTE *)(a1 + 8));
+  if ( (_DWORD)result != 5095 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000003129) ----------------------------------------------------
+__int64 __fastcall sub_3129(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 1) * *(_BYTE *)(a1 + 3) - *(_BYTE *)(a1 + 2) + *(_BYTE *)(a1 + 29));
+  if ( (_DWORD)result != 14387 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000318A) ----------------------------------------------------
+__int64 __fastcall sub_318A(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 11) + *(_BYTE *)(a1 + 9) * *(_BYTE *)(a1 + 3) + *(_BYTE *)(a1 + 1));
+  if ( (_DWORD)result != 13393 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000031E9) ----------------------------------------------------
+__int64 __fastcall sub_31E9(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 9) - *(_BYTE *)(a1 + 30) + *(_BYTE *)(a1 + 4) - *(_BYTE *)(a1 + 24));
+  if ( (_DWORD)result != 62 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000324A) ----------------------------------------------------
+__int64 __fastcall sub_324A(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 26) + *(_BYTE *)(a1 + 15) * *(_BYTE *)(a1 + 7) - *(_BYTE *)(a1 + 28));
+  if ( (_DWORD)result != 10946 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000032AC) ----------------------------------------------------
+__int64 __fastcall sub_32AC(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 7) + *(_BYTE *)(a1 + 7) + *(_BYTE *)(a1 + 14) + *(_BYTE *)(a1 + 26));
+  if ( (_DWORD)result != 290 )
+    sub_1179();
+  return result;
+}
+
+//----- (000000000000330A) ----------------------------------------------------
+__int64 __fastcall sub_330A(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 11) + *(_BYTE *)(a1 + 6) + *(_BYTE *)(a1 + 27) + *(_BYTE *)a1);
+  if ( (_DWORD)result != 363 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000003364) ----------------------------------------------------
+__int64 __fastcall sub_3364(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 25) - *(_BYTE *)(a1 + 12) + *(_BYTE *)(a1 + 8) + *(_BYTE *)(a1 + 26));
+  if ( (_DWORD)result != 155 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000033C5) ----------------------------------------------------
+__int64 __fastcall sub_33C5(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 15) + *(_BYTE *)(a1 + 24) - *(_BYTE *)(a1 + 10) + *(_BYTE *)(a1 + 18));
+  if ( (_DWORD)result != 172 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000003423) ----------------------------------------------------
+__int64 __fastcall sub_3423(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 27) - *(_BYTE *)(a1 + 21) + *(_BYTE *)(a1 + 8) + *(_BYTE *)(a1 + 17));
+  if ( (_DWORD)result != 207 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000003484) ----------------------------------------------------
+__int64 __fastcall sub_3484(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 25) + *(_BYTE *)(a1 + 1) + *(_BYTE *)(a1 + 13) - *(_BYTE *)(a1 + 12));
+  if ( (_DWORD)result != 220 )
+    sub_1179();
+  return result;
+}
+
+//----- (00000000000034E4) ----------------------------------------------------
+__int64 __fastcall sub_34E4(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 5) - *(_BYTE *)(a1 + 30) + *(_BYTE *)(a1 + 5) - *(_BYTE *)(a1 + 6));
+  if ( (_DWORD)result != 56 )
+    sub_1179();
+  return result;
+}
+
+//----- (0000000000003545) ----------------------------------------------------
+__int64 __fastcall sub_3545(__int64 a1)
+{
+  __int64 result; // rax@1
+
+  result = (unsigned int)(*(_BYTE *)(a1 + 19) - *(_BYTE *)(a1 + 5) * *(_BYTE *)(a1 + 14) + *(_BYTE *)(a1 + 20));
+  if ( (_DWORD)result != -5180 )
+    sub_1179();
+  return result;
+}
